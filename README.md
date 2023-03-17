@@ -17,7 +17,7 @@ If you're still learning and want the badge, follow the instructions below!
 - Go to the bot tab and generate a bot account for the application.
 - Click the "Reset Token" button to generate a token (if you have 2fa enabled, you'll need your code).
 - Copy the token to your clipboard.
-- Click this badge to clone this repo to a new repl in Replit -> [![Run on Repl.it](https://replit.com/badge/github/hackermondev/discord-active-developer-badge)](https://replit.com/new/github/hackermondev/discord-active-developer-badge)
+- Click this badge to clone this repo to a new repl in Replit -> [![Run on Repl.it](https://replit.com/badge/github/hackermondev/discord-active-developer-badge)](https://replit.com/new/github/The-Rainbow-Studios/How-to-get-active-developer-badge)
   - You will be redirected to Replit, you might have to create an account (you can Register with Google).
     - Replit is a website, and does not run off your computer! 
 - Wait for the repo has finished cloning and the repl to fully connect.
